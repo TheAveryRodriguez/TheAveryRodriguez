@@ -1,53 +1,33 @@
-<!--
-GITHUB PROFILE README TEMPLATE
-Replace the ASCII art and all fields below with your own info.
-Keep this whole block inside the ```text fence so spacing/alignment holds.
--->
-
 ```text
-                    ,,,,,,,,,,,               your@handle -----------------------
-                ,g@@@@@@@@@@@@@@p,            . OS: ................ Your OS(es)
-             ,@@@@@@@@@@@@@@@@@@@@@,          . Uptime: ............ Since [year]
-           /@@@@@@@@@@@@@@@@@@@@@@@@\         . Host: ............... Company/Org
-          @@@@@'      '@@@@@'      '@@@@      . Role: .................. Your Role
-         @@@@'    ,,    '@@'    ,,    '@@@     . IDE: ........... Editor/Tools used
+                    ,,,,,,,,,,,               avery@matchbox --------------------
+                ,g@@@@@@@@@@@@@@p,            . OS: .................. macOS, iOS
+             ,@@@@@@@@@@@@@@@@@@@@@,          . Uptime: ....... 33y 7m 4w 0d
+           /@@@@@@@@@@@@@@@@@@@@@@@@\         . Host: ........... Matchbox Studio
+          @@@@@'      '@@@@@'      '@@@@      . Role: ......... Founder / Solo Dev
+         @@@@'    ,,    '@@'    ,,    '@@@     . IDE: ................ VSCode, Figma
          @@@|    @@@@    ||    @@@@    |@@
-         @@@|    '@@'    ||    '@@'    |@@     . Languages.Programming: ...........
-          @@@,            ||            ,@@@   .   .................. Lang1, Lang2
-           '@@@,          ||          ,@@@'    . Languages.Web: ........ HTML, CSS
-             '@@@@,      ||      ,@@@@'        . Languages.Human: ..... English, +
-                '@@@@@@@@@@@@@@@@@'
-                    '@@@@@@@@@@'                - Contact -----------------------
-                  ,@@@@@@@@@@@@@@,              . Email: ......... you@example.com
-                ,@@@@@'  ||  '@@@@@,            . LinkedIn: .............. your-id
-               @@@@'     ||     '@@@@           . Discord: ................ you#0
-              @@@'       ||       '@@@          . Website: .......... yoursite.dev
+         @@@|    '@@'    ||    '@@'    |@@     . Languages.Programming: TypeScript
+          @@@,            ||            ,@@@   . Languages.Web: .......... HTML, CSS
+           '@@@,          ||          ,@@@'    . Languages.Human: .......... English
+             '@@@@,      ||      ,@@@@'
+                '@@@@@@@@@@@@@@@@@'              - Stack -------------------------
+                    '@@@@@@@@@@'                 . Backend: ....... Ruby on Rails
+                  ,@@@@@@@@@@@@@@,               . Database: ......... PostgreSQL
+                ,@@@@@'  ||  '@@@@@,             . Frontend: .. Tailwind, Hotwire
+               @@@@'     ||     '@@@@            . Mobile: ..... React Native, Expo
+              @@@'       ||       '@@@           . Infra: .. Supabase, AWS S3, Render
                '@@@,     ||     ,@@@'
-                 '@@@@,,,,,,,,@@@@'              - GitHub Stats ------------------
-                    '@@@@@@@@'                   . Repos: .... N {Contributed: N}
-                                                  . Stars: ...................... N
-                                                  . Commits: .................... N
-                                                  . Followers: .................. N
-                                                  . Lines of Code: N (+N++, -N--)
+                 '@@@@,,,,,,,,@@@@'              - Contact -----------------------
+                    '@@@@@@@@'                   . Email: ... avery@matchboxstudio.xyz
+                                                  . LinkedIn: .... theaveryrodriguez
+                                                  . Website: ....... matchboxstudio.xyz
 ```
-
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
-<p align="center">[One-line tagline about what you do]</p>
-
----
-
-### 🔧 What I'm working on
-- Project 1 — short description
-- Project 2 — short description
-
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theaveryrodriguez&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
-### 🛠️ Tech Stack
-`Java` `Python` `JavaScript` `C++` `HTML` `CSS`
 
 ### 📫 Reach me
 - Email: avery@matchboxstudio.xyz
-- LinkedIn: [your-id](https://linkedin.com/in/theaveryrodriguez)
+- LinkedIn: [theaveryrodriguez](https://linkedin.com/in/theaveryrodriguez)
+- Website: [matchboxstudio.xyz](https://matchboxstudio.xyz)
